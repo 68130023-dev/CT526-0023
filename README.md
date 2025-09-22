@@ -2,9 +2,11 @@
 
 การบ้าน Git ของ CT526-0023
 
-## วิธีการรันโปรแกรม
+## การ Cloneและ วิธีการรันโปรแกรม
 
-Clone
+Right Click --> Select "Open in Terminal"
+
+พิมพ์ git init
 
 git clone https://github.com/68130023-dev/CT526-0023.git
 
